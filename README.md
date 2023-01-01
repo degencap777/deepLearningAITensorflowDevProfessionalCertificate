@@ -11,6 +11,7 @@ In this hands-on, four-course Professional Certificate program, I learn the nece
 
 - [x] [__Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning__]
 (https://github.com/tanvir1985/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Certificates/Introduction%20of%20AI%2C%20Tensorflow%20and%20DL.jpg)
+
 This course is part of the upcoming Machine Learning in Tensorflow Specialization and will teach you best practices for using TensorFlow, a popular open-source framework for machine learning. 
 
 The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that one can start building and applying scalable models to real-world problems.
